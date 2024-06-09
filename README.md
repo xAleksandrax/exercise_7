@@ -14,8 +14,7 @@ Python 3.x
 # How to Use
 Clone the Repository
 
-git clone https://github.com/your-username/custom-cipher-encryption.git
-cd custom-cipher-encryption
+git clone https://github.com/xAleksandrax/exercise_7.git
 Run the Encryption Program
 
 The program encrypts a sample text (included in the script) and saves the encrypted text to a file.
